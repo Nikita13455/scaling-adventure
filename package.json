@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Nikita13455/scaling-adventure/issues"
   },
-  "homepage": "https://github.com/Nikita13455/scaling-adventure#readme"
+  "homepage": "https://github.com/Nikita13455/scaling-adventure#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "pg": "^8.21.0"
+  }
 }
